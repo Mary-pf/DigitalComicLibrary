@@ -1,0 +1,90 @@
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.staticwebassets.runtime.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.exe
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.deps.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.runtimeconfig.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.dll
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.pdb
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.AssemblyInfo.cs
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.RazorAssemblyInfo.cache
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.RazorAssemblyInfo.cs
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.DigitalComicLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.DigitalComicLibrary.props
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DigitalComicLibrary.props
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DigitalComicLibrary.props
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\bundle\DigitalComicLibrary.styles.css
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\projectbundle\DigitalComicLibrary.bundle.scp.css
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.dll
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\refint\DigitalComicLibrary.dll
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.pdb
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.genruntimeconfig.cache
+C:\Users\Sara\Desktop\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\ref\DigitalComicLibrary.dll
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\appsettings.Development.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\appsettings.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.staticwebassets.runtime.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.exe
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.deps.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.runtimeconfig.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.dll
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.pdb
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.AssemblyInfoInputs.cache
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.AssemblyInfo.cs
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.csproj.CoreCompileInputs.cache
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.MvcApplicationPartsAssemblyInfo.cache
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.RazorAssemblyInfo.cache
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.RazorAssemblyInfo.cs
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.build.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.development.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.DigitalComicLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.DigitalComicLibrary.props
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DigitalComicLibrary.props
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DigitalComicLibrary.props
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\bundle\DigitalComicLibrary.styles.css
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\projectbundle\DigitalComicLibrary.bundle.scp.css
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.dll
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\refint\DigitalComicLibrary.dll
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.pdb
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.genruntimeconfig.cache
+F:\Uni\Software library\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\ref\DigitalComicLibrary.dll
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.staticwebassets.runtime.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.exe
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.deps.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.runtimeconfig.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.dll
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\bin\Debug\net8.0\DigitalComicLibrary.pdb
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.AssemblyInfoInputs.cache
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.AssemblyInfo.cs
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.RazorAssemblyInfo.cache
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.RazorAssemblyInfo.cs
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.DigitalComicLibrary.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.build.DigitalComicLibrary.props
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DigitalComicLibrary.props
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DigitalComicLibrary.props
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\bundle\DigitalComicLibrary.styles.css
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\scopedcss\projectbundle\DigitalComicLibrary.bundle.scp.css
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.dll
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\refint\DigitalComicLibrary.dll
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.pdb
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\DigitalComicLibrary.genruntimeconfig.cache
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Debug\net8.0\ref\DigitalComicLibrary.dll

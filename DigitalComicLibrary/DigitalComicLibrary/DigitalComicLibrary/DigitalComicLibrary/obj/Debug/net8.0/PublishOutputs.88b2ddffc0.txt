@@ -1,0 +1,7 @@
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\DigitalComicLibrary.exe
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\DigitalComicLibrary.dll
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\DigitalComicLibrary.deps.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\DigitalComicLibrary.runtimeconfig.json
+C:\Users\Sara\Downloads\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\DigitalComicLibrary\obj\Release\net8.0\PubTmp\Out\DigitalComicLibrary.pdb

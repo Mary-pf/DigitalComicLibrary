@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQ6CNlZE6tFbuBDZmsZn/2cTlSxxyP0nbermV67+OHlp7+bI55W3bIc635jvbD359imyCmGystlYY9aDJe7KXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sara\\Downloads\\DigitalComicLibrary\\DigitalComicLibrary\\DigitalComicLibrary\\DigitalComicLibrary\\DigitalComicLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sara\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.0\\microsoft.netcore.app.host.linux-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
